@@ -1,0 +1,7 @@
+﻿<Style xmlns="https://github.com/avaloniaui"
+       xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Style.Resources>
+        <Color x:Key="ControlColor">#FF0000</Color>
+        <SolidColorBrush x:Key="ControlBrush" Color="{DynamicResource ControlColor}" />
+    </Style.Resources>
+</Style>
